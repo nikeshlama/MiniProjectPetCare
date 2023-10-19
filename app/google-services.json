@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409992530853",
+    "project_id": "miniprojectpetcare",
+    "storage_bucket": "miniprojectpetcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409992530853:android:c7473ae827bf447d6db64c",
+        "android_client_info": {
+          "package_name": "com.example.miniprojectpetcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf3_qMmoOdATqcCXxEujlsA9mLZM27osU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
