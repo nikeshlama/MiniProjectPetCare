@@ -13,6 +13,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
 public class LoginFormActivity extends AppCompatActivity {
 
     private EditText editTextEmail, editTextPassword;

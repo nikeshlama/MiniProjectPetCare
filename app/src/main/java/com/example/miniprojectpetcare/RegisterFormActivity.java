@@ -52,7 +52,7 @@ public class RegisterFormActivity extends AppCompatActivity {
                         if (task.isSuccessful()) {
                             // Registration success
                             Toast.makeText(RegisterFormActivity.this, "Registration successful!", Toast.LENGTH_SHORT).show();
-                            Intent intent = new Intent(RegisterFormActivity.this, MainActivity.class);
+                            Intent intent = new Intent(RegisterFormActivity.this, LoginFormActivity.class);
                             startActivity(intent);
                         } else {
                             // Registration failed
